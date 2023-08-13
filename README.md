@@ -1,6 +1,7 @@
 Are you tired of continuously going to the AI course page (taught by Soumajit Sir) and checking for the slides to download? then fear not, here is the automated slides downloader which downloads all the slides as they are uploaded so your time is lot more optimized!
 
 So, to run this just download the "scrapey.py" and then follow this:
+
 In Linux Systems with crontab:
  1. Open your terminal.
  2. Enter the command `crontab -e` to open your user's crontab configuration.
